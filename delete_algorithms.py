@@ -41,4 +41,3 @@ def delete_2(array, value):
 # array = [1, 2, 4, 5, 8, 99]
 # value = 1
 # print(delete_2(array, value))
-
